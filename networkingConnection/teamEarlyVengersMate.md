@@ -309,3 +309,10 @@
 - 🔗 LinkedIn: _Not provided_
 
 ---
+### 40. **Md Mostakim Hosen**
+
+- 📧 Email: `mdmostakimhosen35@gmail.com`
+- 📞 Phone: `01821023369`
+- 🔗 LinkedIn: __https://www.linkedin.com/in/mostakim-hosen9/
+
+---
